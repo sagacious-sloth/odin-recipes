@@ -1,0 +1,33 @@
+*
+{
+    background-color: lightsalmon;
+}
+
+.descrip{
+ text-decoration: wavy;
+ background-image: linear-gradient(to bottom, plum, peru);
+ font-family: fantasy;
+ background-blend-mode: color-burn;
+}
+
+.ingredients.list {
+    background-color: aqua;
+    background-blend-mode: lighten;
+    color: rgb(79, 79, 215);
+
+}
+
+.steps.list {
+    background-color: cadetblue;
+    background-blend-mode: darken;
+    color: green;
+}
+
+.list {
+    box-shadow: 5cm;
+}
+
+.list li{
+    background-color: blanchedalmond;
+}
+
